@@ -1,0 +1,11 @@
+{
+	"actions":[
+
+		{
+			"type":"SAY",
+			"params":{
+				"text":"This is the sub default configuration for the application"
+			}
+		}
+	]
+}
